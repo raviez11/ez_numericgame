@@ -14,7 +14,7 @@ How to Play
 3. After each guess, you’ll receive a hint:
 * “Too high!” if your guess is more than the target
 * “Too low!” if your guess is less than the target
-4.You win if you guess the number within the given attempts.
+4. You win if you guess the number within the given attempts.
 
 Getting Started
 Prerequisites
